@@ -7,7 +7,7 @@
 - If you dont have rufus already installed you can download it [Rufus](https://rufus.ie/en/#google_vignette)
 #### BE CAUTIOUS, the top "DOWNLOAD" link is generally an ad.
 - Please scroll down until you see file names for different versions of rufus.
-![Alt Text](./images/Rufus_filenames)
+![Alt Text](../images/Rufus_filenames)
 - Click on the name you want to download.
 - You are likely looking for x64 Standard download and may be a good idea to stay away from beta versions.
 - ...Let others work the possible bugs out on those first... 
